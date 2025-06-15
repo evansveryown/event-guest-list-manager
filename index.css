@@ -1,0 +1,33 @@
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.output {
+  margin-top: 30px;
+  padding: 15px;
+  border-top: 1px solid #ccc;
+  text-align: left;
+  white-space: pre-wrap;
+}
