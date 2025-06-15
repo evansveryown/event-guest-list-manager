@@ -15,7 +15,7 @@ This project is part of a JavaScript learning module and aims to demonstrate pro
 
 ## Screenshot
 
-![Screenshot of App](code-challenge-1-screenshot.png)
+![Screenshot of App](Screenshot.png)
 
 ## Features
 
@@ -35,12 +35,11 @@ This project is part of a JavaScript learning module and aims to demonstrate pro
 
 ### View Live Site
 
-Visit the deployed application at: **https://evansveryown.github.io/Code-Challenge-1/**
+Visit the deployed application at: **https://evansveryown.github.io/event-guest-list-manager/**
 
 You can:
-- Choose a calculator (Chai, Boda, or Transaction Fee)
-- Input a value
-- Press **"Calculate"** to view the result
+- Enter name of guest in the 'guest name' input field
+- Press **"Add Guest"** to view the result
 
 ### Local Development
 
@@ -48,14 +47,14 @@ If you'd like to run the project locally:
 
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/evansveryown/Code-Challenge-1.git
+git clone https://github.com/evansveryown/event-guest-list-manager.git
 
 Or download the ZIP and extract it.
 ```
 
 #### 2. Navigate to the project folder:
 ```bash
-cd code-challenge-1
+cd event-guest-list-manager
 ```
 
 #### 3. Open index.html in your browser:
